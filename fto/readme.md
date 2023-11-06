@@ -1,1 +1,1 @@
-
+The object of evaluation is to provide therapeutic antibody discovery services for membrane proteins using SMALP. The client is CRO Co., a British contract research organization. The potential market for this discovery service application is the UK market. Therefore, this FTO report will be written based on the basic principle of Article 60 of the UK Patent Law regarding the abstract of infringement.
