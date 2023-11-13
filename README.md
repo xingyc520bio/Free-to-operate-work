@@ -7,3 +7,5 @@ The first free to operate I have ever write before.
 3.解决已确定的明显FTO问题的选项（技术、商业）——应更多地参与并具有良好的深度；
 4.向理事会提出的建议。
 不相等的权重可能被认为是合适的，其中段3的权重比其他段更重。报告应适当说明和引用，且不得超过规定的字数限制。
+
+https://www.myendnoteweb.com/EndNoteWeb.html
